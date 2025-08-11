@@ -1,2 +1,6 @@
-# Gemini_web
-Web app in Vue.JS with Route + TypeScipt
+# Я это приложение написал за день на VueJS чисто по фану
+
+---
+## Библиотеки : GenAI , BootStrap , + TS
+
+также тут юзал роутинги
